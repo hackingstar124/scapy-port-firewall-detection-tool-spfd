@@ -1,4 +1,4 @@
-# scapy-port-firewall-detection-tool-sspfd
+# scapy-port-firewall-detection-tool-spfd
 In this script you can detect firewall in different ports of a website.It will work like this  
 Running method 1
 python '/home/kali/Desktop/spfd.py' -t ip address -p 3306 
@@ -14,4 +14,4 @@ if there was any firewall.The script will show different outputs according to th
 you need to download those libraties in your system if you dont have 
 1 scapy
 2 argpurse 
-3.logging 
+you need to give the sudo permission to run the script 
